@@ -25,6 +25,6 @@ This program was developed in Java.
 # Future Work
 
 
-* Scan the phone number list against the do not call list to prevent users from illigally calling
+* Scan the phone number list against the do not call list to prevent users from illegally calling
 * Use an api to allow calls directly from the program through the users phone number
 * Create a gui to help the user have a great experiance
